@@ -4,7 +4,7 @@
 This project is a **Tableau Public dashboard** that visualizes Airbnb listing data in Seattle by zip code, bedroom count, and time. The dashboard highlights pricing trends, listing counts, and revenue distribution across different areas and periods.
 
 ## 🖼️ Dashboard Preview
-![Airbnb Dashboard]()
+![Airbnb Dashboard](Tableau AirBNB.png)
 
 ## 🚀 Project Highlights
 
